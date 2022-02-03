@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router,Switch,Route, NavLink} from "react-router-dom";
+import {BrowserRouter as Router, Routes, Route, NavLink} from "react-router-dom";
 
 import AllTasks from './AllTasks';
 import ComplitedTask from './ComplitedTask';
@@ -17,11 +17,11 @@ const TaskCategary = () => {
             </ul>
           </div>
           <div className="col-8">
-          <Switch>
+          <Routes>
             <Route path="/pending" component={ PendingTasks } />
             <Route path="/complited" component={ComplitedTask} />
             <Route path="/" component={AllTasks } />
-          </Switch>
+          </Routes>
           </div>
         </div>
       </Router>
