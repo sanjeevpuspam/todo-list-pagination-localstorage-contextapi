@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/todo-list-pagination-localStorage-contextApi/static/css/main.9545954a.chunk.css",
+    "main.css": "/todo-list-pagination-localStorage-contextApi/static/css/main.b2374b4b.chunk.css",
     "main.js": "/todo-list-pagination-localStorage-contextApi/static/js/main.f237c755.chunk.js",
     "main.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/main.f237c755.chunk.js.map",
     "runtime-main.js": "/todo-list-pagination-localStorage-contextApi/static/js/runtime-main.52d058d3.js",
     "runtime-main.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/runtime-main.52d058d3.js.map",
-    "static/css/2.546cbcf5.chunk.css": "/todo-list-pagination-localStorage-contextApi/static/css/2.546cbcf5.chunk.css",
+    "static/css/2.74197e51.chunk.css": "/todo-list-pagination-localStorage-contextApi/static/css/2.74197e51.chunk.css",
     "static/js/2.ee9d6cb4.chunk.js": "/todo-list-pagination-localStorage-contextApi/static/js/2.ee9d6cb4.chunk.js",
     "static/js/2.ee9d6cb4.chunk.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/2.ee9d6cb4.chunk.js.map",
     "static/js/3.47d1d28b.chunk.js": "/todo-list-pagination-localStorage-contextApi/static/js/3.47d1d28b.chunk.js",
     "static/js/3.47d1d28b.chunk.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/3.47d1d28b.chunk.js.map",
     "index.html": "/todo-list-pagination-localStorage-contextApi/index.html",
-    "static/css/2.546cbcf5.chunk.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/2.546cbcf5.chunk.css.map",
-    "static/css/main.9545954a.chunk.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/main.9545954a.chunk.css.map",
+    "static/css/2.74197e51.chunk.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/2.74197e51.chunk.css.map",
+    "static/css/main.b2374b4b.chunk.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/main.b2374b4b.chunk.css.map",
     "static/js/2.ee9d6cb4.chunk.js.LICENSE.txt": "/todo-list-pagination-localStorage-contextApi/static/js/2.ee9d6cb4.chunk.js.LICENSE.txt",
     "static/media/notifications.css": "/todo-list-pagination-localStorage-contextApi/static/media/notification.c5d9251e.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.52d058d3.js",
-    "static/css/2.546cbcf5.chunk.css",
+    "static/css/2.74197e51.chunk.css",
     "static/js/2.ee9d6cb4.chunk.js",
-    "static/css/main.9545954a.chunk.css",
+    "static/css/main.b2374b4b.chunk.css",
     "static/js/main.f237c755.chunk.js"
   ]
 }
