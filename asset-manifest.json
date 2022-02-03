@@ -1,26 +1,19 @@
 {
   "files": {
-    "main.css": "/todo-list-pagination-localStorage-contextApi/static/css/main.b2374b4b.chunk.css",
-    "main.js": "/todo-list-pagination-localStorage-contextApi/static/js/main.58d0e6e2.chunk.js",
-    "main.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/main.58d0e6e2.chunk.js.map",
-    "runtime-main.js": "/todo-list-pagination-localStorage-contextApi/static/js/runtime-main.9a3de449.js",
-    "runtime-main.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/runtime-main.9a3de449.js.map",
-    "static/css/2.74197e51.chunk.css": "/todo-list-pagination-localStorage-contextApi/static/css/2.74197e51.chunk.css",
-    "static/js/2.eeca9a44.chunk.js": "/todo-list-pagination-localStorage-contextApi/static/js/2.eeca9a44.chunk.js",
-    "static/js/2.eeca9a44.chunk.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/2.eeca9a44.chunk.js.map",
-    "static/js/3.f4ad95d5.chunk.js": "/todo-list-pagination-localStorage-contextApi/static/js/3.f4ad95d5.chunk.js",
-    "static/js/3.f4ad95d5.chunk.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/3.f4ad95d5.chunk.js.map",
+    "main.css": "/todo-list-pagination-localStorage-contextApi/static/css/main.a0698fe8.css",
+    "main.js": "/todo-list-pagination-localStorage-contextApi/static/js/main.9f58c439.js",
+    "static/js/787.ab2b61ec.chunk.js": "/todo-list-pagination-localStorage-contextApi/static/js/787.ab2b61ec.chunk.js",
+    "static/media/notification.svg?s3g3t9": "/todo-list-pagination-localStorage-contextApi/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/todo-list-pagination-localStorage-contextApi/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/todo-list-pagination-localStorage-contextApi/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/todo-list-pagination-localStorage-contextApi/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/todo-list-pagination-localStorage-contextApi/index.html",
-    "static/css/2.74197e51.chunk.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/2.74197e51.chunk.css.map",
-    "static/css/main.b2374b4b.chunk.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/main.b2374b4b.chunk.css.map",
-    "static/js/2.eeca9a44.chunk.js.LICENSE.txt": "/todo-list-pagination-localStorage-contextApi/static/js/2.eeca9a44.chunk.js.LICENSE.txt",
-    "static/media/notifications.css": "/todo-list-pagination-localStorage-contextApi/static/media/notification.c5d9251e.ttf"
+    "main.a0698fe8.css.map": "/todo-list-pagination-localStorage-contextApi/static/css/main.a0698fe8.css.map",
+    "main.9f58c439.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/main.9f58c439.js.map",
+    "787.ab2b61ec.chunk.js.map": "/todo-list-pagination-localStorage-contextApi/static/js/787.ab2b61ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a3de449.js",
-    "static/css/2.74197e51.chunk.css",
-    "static/js/2.eeca9a44.chunk.js",
-    "static/css/main.b2374b4b.chunk.css",
-    "static/js/main.58d0e6e2.chunk.js"
+    "static/css/main.a0698fe8.css",
+    "static/js/main.9f58c439.js"
   ]
 }
